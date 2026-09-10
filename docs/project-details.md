@@ -56,16 +56,7 @@ The system was validated in an indoor laboratory environment. LiDAR and SLAM Too
 - Test the system in larger and outdoor environments.
 - Extend the system toward multi-robot coordination.
 
-## Project Documentation
 
-The project presentation is available here:
-
-[View Project Presentation](./fyp-II.pptx)
-
-## Project Images
-
-### Autonomous Mobile Robot
-![Robot Prototype](./images/robot-prototype.png)
 
 ### System Architecture
 ![System Architecture](./images/system-architecture.png)
